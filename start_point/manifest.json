@@ -1,5 +1,5 @@
 {
-  "image_name": "cyberdojofoundation/bash_unit:55b3409",
+  "image_name": "cyberdojofoundation/bash_unit:3edc421",
   "display_name": "Bash, bash_unit",
   "visible_filenames": [
     "test_hiker.sh",
