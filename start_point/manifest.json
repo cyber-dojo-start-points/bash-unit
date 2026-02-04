@@ -1,6 +1,6 @@
 {
-  "image_name": "ghcr.io/cyber-dojo-languages/bash_unit:09ea179",
-  "display_name": "Bash 5.2.37, bash_unit 2.3.2",
+  "image_name": "ghcr.io/cyber-dojo-languages/bash_unit:391e152",
+  "display_name": "Bash 5.3.3, bash_unit 2.3.3",
   "visible_filenames": [
     "test_hiker.sh",
     "unit_help.txt",
