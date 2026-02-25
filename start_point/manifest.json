@@ -1,5 +1,5 @@
 {
-  "image_name": "ghcr.io/cyber-dojo-languages/bash_unit:391e152",
+  "image_name": "ghcr.io/cyber-dojo-languages/bash_unit:19b5bea",
   "display_name": "Bash 5.3.3, bash_unit 2.3.3",
   "visible_filenames": [
     "test_hiker.sh",
@@ -7,6 +7,7 @@
     "hiker.sh",
     "cyber-dojo.sh"
   ],
+  "rag_lambda": "red_amber_green.rb",
   "filename_extension": [
     ".sh"
   ],
