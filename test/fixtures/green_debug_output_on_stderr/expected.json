@@ -1,0 +1,7 @@
+{
+  "matches": [ "^loading hiker.sh$" ],
+  "match_counts": {
+    "\\.\\.\\. SUCCESS$": 1,
+    "^Overall result: SUCCESS$": 1
+  }
+}

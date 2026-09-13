@@ -1,0 +1,7 @@
+{
+  "match_counts": {
+    "\\.\\.\\. SUCCESS$": 2,
+    "^Running tests in ": 2,
+    "^Overall result: SUCCESS$": 1
+  }
+}

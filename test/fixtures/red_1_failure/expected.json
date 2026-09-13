@@ -1,0 +1,6 @@
+{
+  "match_counts": {
+    "\\.\\.\\. FAILURE$": 1,
+    "^Overall result: FAILURE$": 1
+  }
+}
