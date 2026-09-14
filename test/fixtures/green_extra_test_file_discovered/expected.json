@@ -1,4 +1,5 @@
 {
+  "max_output_lines": 12,
   "match_counts": {
     "\\.\\.\\. SUCCESS$": 2,
     "^Running tests in ": 2,

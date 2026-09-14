@@ -1,4 +1,5 @@
 {
+  "max_output_lines": 12,
   "matches": [ "^loading hiker.sh$" ],
   "match_counts": {
     "\\.\\.\\. SUCCESS$": 1,
