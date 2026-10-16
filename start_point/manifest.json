@@ -1,13 +1,13 @@
 {
-  "image_name": "ghcr.io/cyber-dojo-languages/bash_unit:19b5bea",
-  "display_name": "Bash 5.3, bash_unit 2.3",
+  "image_name": "ghcr.io/cyber-dojo-languages/bash_unit:4c1ac1e@sha256:7c8a74c4a4437a0064c7ba1c3c29322d9bfd2f38ee1fda120c8f416607942647",
+  "display_name": "Bash 5.3.9, bash_unit 2.3.3",
   "language": [
     "Bash",
-    "5.3"
+    "5.3.9"
   ],
   "test_framework": [
     "bash_unit",
-    "2.3"
+    "2.3.3"
   ],
   "visible_filenames": [
     "test_hiker.sh",
